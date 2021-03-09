@@ -1,5 +1,5 @@
 # Ghampani
-# This is a DDOS tool which is very easy to use!
+<b>This is a DDOS tool which is very easy to use!</b>
 <br><b>Please use it at your own risk.</b><br>
 <b>How to use this?<b><br>
 <b>Step 1:</b> Give permission<br>
